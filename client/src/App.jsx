@@ -1,5 +1,15 @@
+import CanvasModel from "./canvas/Canvas";
+import Customizer from "./pages/Customizer";
+import Home from "./pages/Home";
+
 const App = () => {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return (
+    <main className="app transition-all ease-in">
+      <Home />
+      <CanvasModel />
+      <Customizer />
+    </main>
+  );
 };
 
 export default App;
