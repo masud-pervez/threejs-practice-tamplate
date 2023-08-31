@@ -1,1 +1,1 @@
-# treejs-practice-tamplate
+# Threejs Practice Tamplate
