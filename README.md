@@ -1,1 +1,1 @@
-# Threejs Practice
+# Three js Practice
